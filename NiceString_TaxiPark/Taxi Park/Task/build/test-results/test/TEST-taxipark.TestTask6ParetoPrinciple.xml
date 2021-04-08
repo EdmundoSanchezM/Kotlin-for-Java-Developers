@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="taxipark.TestTask6ParetoPrinciple" tests="11" skipped="0" failures="0" errors="0" timestamp="2021-04-08T18:54:57" hostname="DESKTOP-3TPES7J" time="0.023">
+  <properties/>
+  <testcase name="test1" classname="taxipark.TestTask6ParetoPrinciple" time="0.009"/>
+  <testcase name="test2" classname="taxipark.TestTask6ParetoPrinciple" time="0.001"/>
+  <testcase name="test3" classname="taxipark.TestTask6ParetoPrinciple" time="0.002"/>
+  <testcase name="test4" classname="taxipark.TestTask6ParetoPrinciple" time="0.001"/>
+  <testcase name="test5" classname="taxipark.TestTask6ParetoPrinciple" time="0.002"/>
+  <testcase name="test7" classname="taxipark.TestTask6ParetoPrinciple" time="0.002"/>
+  <testcase name="test8" classname="taxipark.TestTask6ParetoPrinciple" time="0.001"/>
+  <testcase name="test9" classname="taxipark.TestTask6ParetoPrinciple" time="0.002"/>
+  <testcase name="testParetoPrincipleFails" classname="taxipark.TestTask6ParetoPrinciple" time="0.001"/>
+  <testcase name="testParetoPrincipleNoTrips" classname="taxipark.TestTask6ParetoPrinciple" time="0.0"/>
+  <testcase name="testParetoPrincipleSucceeds" classname="taxipark.TestTask6ParetoPrinciple" time="0.0"/>
+  <system-out><![CDATA[
+------
+trips={Driver(name=D-1)=160.0, Driver(name=D-2)=39.0}
+
+currentIncome = 160.0 index=0 pct80totalIncome=159.20000000000002 pct20totalDrivers=1.0
+
+------
+trips={Driver(name=D-1)=160.0, Driver(name=D-2)=41.0}
+
+currentIncome = 160.0 index=0 pct80totalIncome=160.8 pct20totalDrivers=1.0
+
+------
+trips={Driver(name=D-4)=296.5, Driver(name=D-3)=16.6, Driver(name=D-0)=39.6, Driver(name=D-2)=17.0}
+
+currentIncome = 296.5 index=0 pct80totalIncome=295.76000000000005 pct20totalDrivers=1.0
+
+------
+trips={Driver(name=D-4)=42.39999999999999, Driver(name=D-3)=306.40000000000003, Driver(name=D-1)=25.2, Driver(name=D-0)=9.0}
+
+currentIncome = 306.40000000000003 index=0 pct80totalIncome=306.40000000000003 pct20totalDrivers=1.0
+
+------
+trips={Driver(name=D-1)=73.6, Driver(name=D-0)=208.5}
+
+currentIncome = 208.5 index=0 pct80totalIncome=225.68000000000004 pct20totalDrivers=1.2000000000000002
+currentIncome = 282.1 index=1 pct80totalIncome=225.68000000000004 pct20totalDrivers=1.2000000000000002
+
+------
+trips={Driver(name=D-6)=60.3, Driver(name=D-1)=398.0, Driver(name=D-3)=16.8, Driver(name=D-7)=422.3, Driver(name=D-8)=41.0, Driver(name=D-9)=40.3, Driver(name=D-4)=38.9, Driver(name=D-0)=5.6}
+
+currentIncome = 422.3 index=0 pct80totalIncome=818.5600000000001 pct20totalDrivers=2.0
+currentIncome = 820.3 index=1 pct80totalIncome=818.5600000000001 pct20totalDrivers=2.0
+
+------
+trips={Driver(name=D-5)=15.0, Driver(name=D-1)=522.1, Driver(name=D-9)=33.7, Driver(name=D-4)=311.3, Driver(name=D-8)=50.6, Driver(name=D-2)=36.6, Driver(name=D-6)=40.099999999999994, Driver(name=D-7)=8.0, Driver(name=D-0)=26.0}
+
+currentIncome = 522.1 index=0 pct80totalIncome=834.7200000000001 pct20totalDrivers=2.0
+currentIncome = 833.4000000000001 index=1 pct80totalIncome=834.7200000000001 pct20totalDrivers=2.0
+
+------
+trips={Driver(name=D-7)=43.4, Driver(name=D-6)=263.8, Driver(name=D-12)=19.8, Driver(name=D-13)=24.4, Driver(name=D-9)=458.8, Driver(name=D-8)=484.2, Driver(name=D-1)=58.2, Driver(name=D-5)=19.2, Driver(name=D-19)=202.29999999999998, Driver(name=D-4)=36.4, Driver(name=D-10)=25.0, Driver(name=D-18)=18.0, Driver(name=D-15)=69.6, Driver(name=D-14)=27.0}
+
+currentIncome = 484.2 index=0 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+currentIncome = 943.0 index=1 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+currentIncome = 1206.8 index=2 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+currentIncome = 1409.1 index=3 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+
+------
+trips={Driver(name=D-1)=120.0, Driver(name=D-2)=40.0, Driver(name=D-3)=40.0}
+
+currentIncome = 120.0 index=0 pct80totalIncome=160.0 pct20totalDrivers=1.0
+
+------
+trips={}
+
+
+------
+trips={Driver(name=D-1)=160.0, Driver(name=D-2)=40.0}
+
+currentIncome = 160.0 index=0 pct80totalIncome=160.0 pct20totalDrivers=1.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

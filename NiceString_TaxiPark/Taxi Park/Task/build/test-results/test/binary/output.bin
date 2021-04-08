@@ -1,0 +1,60 @@
+;:
+;:------
+;:6trips={Driver(name=D-1)=160.0, Driver(name=D-2)=39.0}
+;:
+;:XcurrentIncome = 160.0 index=0 pct80totalIncome=159.20000000000002 pct20totalDrivers=1.0
+;<
+;<------
+;<6trips={Driver(name=D-1)=160.0, Driver(name=D-2)=41.0}
+;<
+;<KcurrentIncome = 160.0 index=0 pct80totalIncome=160.8 pct20totalDrivers=1.0
+;=
+;=------
+;=dtrips={Driver(name=D-4)=296.5, Driver(name=D-3)=16.6, Driver(name=D-0)=39.6, Driver(name=D-2)=17.0}
+;=
+;=XcurrentIncome = 296.5 index=0 pct80totalIncome=295.76000000000005 pct20totalDrivers=1.0
+;>
+;>------
+;>}trips={Driver(name=D-4)=42.39999999999999, Driver(name=D-3)=306.40000000000003, Driver(name=D-1)=25.2, Driver(name=D-0)=9.0}
+;>
+;>ecurrentIncome = 306.40000000000003 index=0 pct80totalIncome=306.40000000000003 pct20totalDrivers=1.0
+;?
+;?------
+;?6trips={Driver(name=D-1)=73.6, Driver(name=D-0)=208.5}
+;?
+;?gcurrentIncome = 208.5 index=0 pct80totalIncome=225.68000000000004 pct20totalDrivers=1.2000000000000002
+;?gcurrentIncome = 282.1 index=1 pct80totalIncome=225.68000000000004 pct20totalDrivers=1.2000000000000002
+;@
+;@------
+;@Àtrips={Driver(name=D-6)=60.3, Driver(name=D-1)=398.0, Driver(name=D-3)=16.8, Driver(name=D-7)=422.3, Driver(name=D-8)=41.0, Driver(name=D-9)=40.3, Driver(name=D-4)=38.9, Driver(name=D-0)=5.6}
+;@
+;@WcurrentIncome = 422.3 index=0 pct80totalIncome=818.5600000000001 pct20totalDrivers=2.0
+;@WcurrentIncome = 820.3 index=1 pct80totalIncome=818.5600000000001 pct20totalDrivers=2.0
+;A
+;A------
+;Aåtrips={Driver(name=D-5)=15.0, Driver(name=D-1)=522.1, Driver(name=D-9)=33.7, Driver(name=D-4)=311.3, Driver(name=D-8)=50.6, Driver(name=D-2)=36.6, Driver(name=D-6)=40.099999999999994, Driver(name=D-7)=8.0, Driver(name=D-0)=26.0}
+;A
+;AWcurrentIncome = 522.1 index=0 pct80totalIncome=834.7200000000001 pct20totalDrivers=2.0
+;AccurrentIncome = 833.4000000000001 index=1 pct80totalIncome=834.7200000000001 pct20totalDrivers=2.0
+;B
+;B------
+;Bátrips={Driver(name=D-7)=43.4, Driver(name=D-6)=263.8, Driver(name=D-12)=19.8, Driver(name=D-13)=24.4, Driver(name=D-9)=458.8, Driver(name=D-8)=484.2, Driver(name=D-1)=58.2, Driver(name=D-5)=19.2, Driver(name=D-19)=202.29999999999998, Driver(name=D-4)=36.4, Driver(name=D-10)=25.0, Driver(name=D-18)=18.0, Driver(name=D-15)=69.6, Driver(name=D-14)=27.0}
+;B
+;BXcurrentIncome = 484.2 index=0 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+;BXcurrentIncome = 943.0 index=1 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+;BYcurrentIncome = 1206.8 index=2 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+;BYcurrentIncome = 1409.1 index=3 pct80totalIncome=1400.0800000000002 pct20totalDrivers=4.0
+;C
+;C------
+;CMtrips={Driver(name=D-1)=120.0, Driver(name=D-2)=40.0, Driver(name=D-3)=40.0}
+;C
+;CKcurrentIncome = 120.0 index=0 pct80totalIncome=160.0 pct20totalDrivers=1.0
+;D
+;D------
+;D	trips={}
+;D
+;E
+;E------
+;E6trips={Driver(name=D-1)=160.0, Driver(name=D-2)=40.0}
+;E
+;EKcurrentIncome = 160.0 index=0 pct80totalIncome=160.0 pct20totalDrivers=1.0
